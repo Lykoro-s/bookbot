@@ -1,2 +1,2 @@
 # bookbot
-Summarizes a book.
+BookBot is my first project!
